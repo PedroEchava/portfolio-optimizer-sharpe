@@ -34,31 +34,3 @@ A quantitative portfolio optimization engine designed to balance risk and return
 3. Run Optimization Script:
     ```bash
     python optimize.py
-
----
-
-### Proyecto 3: Análisis Financiero y de Valoración Corporativa (Alpina / SIMEV)
-*Crea un repositorio llamado `corporate-valuation-alpina` (o similar), añade un archivo `README.md` y pega lo siguiente:*
-
-```markdown
-# Corporate Valuation & Financial Statement Analysis (Alpina S.A.S.)
-
-![Finance](https://img.shields.io/badge/Corporate-Finance-blue.svg)
-![Valuation](https://img.shields.io/badge/Valuation-DCF%20%2F%2520Ratios-orange.svg)
-![Regulation](https://img.shields.io/badge/Regulator-SIMEV%2FRNVE-green.svg)
-
-A rigorous corporate finance case study and fundamental valuation model focused on Alpina Productos Alimenticios S.A. Extracted multi-year audited financial statements directly from regulatory filings (Superintendencia Financiera de Colombia / SIMEV & RNVE portals) to execute comprehensive financial statement analysis.
-
----
-
-## Key Components
-* **Data Extraction & Regulatory Research:** Navigated the SIMEV and Registro Nacional de Valores y Emisores (RNVE) portals to gather official historical balance sheets, income statements, and cash flow reports.
-* **Financial Statement Analysis:** Computed core liquidity, leverage, efficiency, and profitability ratios across multiple fiscal years.
-* **Valuation Frameworks:** Developed fundamental valuation metrics to assess capital structure, debt sustainability, and operational performance.
-* **Strategic Insights:** Evaluated competitive positioning and market drivers within the Latin American consumer goods and food processing sector.
-
----
-
-## Deliverables & Structure
-* `financial_model.xlsx` / Python scripts used for ratio computations.
-* `Valuation_Report.pdf`: Comprehensive analytical report detailing fundamental findings and strategic recommendations.
